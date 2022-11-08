@@ -1,1 +1,1 @@
-# assets
+# CDN资源
